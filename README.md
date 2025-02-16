@@ -8,8 +8,24 @@ The Movie Review System is a Spring Boot application that allows users to manage
 - Spring Boot 3.3.1
 - Spring Data JPA
 - Hibernate
-- MySQL / Oracle Database
+- MySQL Database
 - Lombok
-- Swagger (Springdoc OpenAPI)
+- Postman
 
-## 📂 Project Structure
+
+## 🚀 Features
+✅ Add, Update, Delete Movies  
+✅ Add Reviews for Movies  
+✅ Retrieve Movie details with associated Reviews  
+✅ API Documentation with Swagger  
+✅ Exception Handling  
+
+## 📌 Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```sh
+ git clone https://github.com/RonitGavali/movie-review-system.git
+ cd movie-review-system
+
+
