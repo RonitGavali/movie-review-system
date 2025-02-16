@@ -22,6 +22,9 @@ The Movie Review System is a Spring Boot application that allows users to manage
 ✅ Exception Handling  
 
 ## 📌 Installation & Setup
+<img src="https://github.com/RonitGavali/movie-review-system/blob/main/1.png" alt="Description" width="400">
+<img src="https://your-image-url.com/image.png](https://github.com/RonitGavali/movie-review-system/blob/main/2.png" alt="Description" width="400">
+<img src="https://github.com/RonitGavali/movie-review-system/blob/main/3.png" alt="Description" width="400">
 
 ### 1️⃣ Clone the Repository
 
