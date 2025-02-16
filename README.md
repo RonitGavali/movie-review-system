@@ -1,4 +1,4 @@
-#Movie Review System
+Movie Review System
 
 📌 Overview
 
