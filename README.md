@@ -21,10 +21,11 @@ The Movie Review System is a Spring Boot application that allows users to manage
 ✅ API Documentation with Swagger  
 ✅ Exception Handling  
 
-## 📌 Installation & Setup
 <img src="https://github.com/RonitGavali/movie-review-system/blob/main/1.png" alt="Description" width="1200">
 <img src="https://github.com/RonitGavali/movie-review-system/blob/main/2.png" alt="Description" width="1200">
 <img src="https://github.com/RonitGavali/movie-review-system/blob/main/3.png" alt="Description" width="1200">
+## 📌 Installation & Setup
+
 
 ### 1️⃣ Clone the Repository
 
